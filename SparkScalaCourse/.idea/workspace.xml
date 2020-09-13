@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BspLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../curso-spark-scala/materiales_del_curso/SparkScalaCourse/SparkScalaCourse" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81e37ad8-68e8-4aab-8bb6-7317503e80ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_chuusai_shapeless_2_12_2_3_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_clearspring_analytics_stream_2_9_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_4_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_12_2_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_github_luben_zstd_jni_1_4_4_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_github_spotbugs_spotbugs_annotations_3_1_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_github_wendykierp_JTransforms_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_flatbuffers_flatbuffers_java_1_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_guava_guava_16_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_sun_istack_istack_commons_runtime_3_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_twitter_chill_2_12_0_9_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_twitter_chill_java_0_9_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__com_univocity_univocity_parsers_2_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_airlift_aircompressor_0_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_4_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_4_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jmx_4_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_4_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_4_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_netty_netty_3_10_6_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__io_netty_netty_all_4_1_47_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__jakarta_annotation_jakarta_annotation_api_1_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__jakarta_validation_jakarta_validation_api_2_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_servlet_jsp_jsp_api_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__javax_xml_stream_stax_api_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__net_razorvine_pyrolite_4_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_15_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_15_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_15_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_avro_avro_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_8_2_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_commons_commons_compress_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_commons_commons_text_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_curator_curator_client_2_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_curator_curator_framework_2_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_7_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_hive_hive_storage_api_2_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_htrace_htrace_core_3_1_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_orc_orc_core_1_5_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_5_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_orc_orc_shims_1_5_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_10_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_10_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_10_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_10_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_10_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_core_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_mllib_local_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_sql_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_tags_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_xbean_xbean_asm7_shaded_4_15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_yetus_audience_annotations_0_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_14_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_external_jakarta_inject_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jaxb_jaxb_runtime_2_3_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_inject_jersey_hk2_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_javassist_javassist_3_25_0_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_json4s_json4s_ast_2_12_3_6_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_json4s_json4s_core_2_12_3_6_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_json4s_json4s_jackson_2_12_3_6_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_json4s_json4s_scalap_2_12_3_6_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_lz4_lz4_java_1_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_mortbay_jetty_jetty_sslengine_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_objenesis_objenesis_2_5_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_7_45_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_roaringbitmap_shims_0_7_45_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scala_lang_modules_scala_collection_compat_2_12_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scalanlp_breeze_2_12_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_12_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_30_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_threeten_threeten_extra_1_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_tukaani_xz_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_twitter4j_twitter4j_core_4_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_twitter4j_twitter4j_stream_4_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_algebra_2_12_2_0_0_M2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_cats_kernel_2_12_2_0_0_M4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_machinist_2_12_0_6_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_spire_2_12_0_17_0_M1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_spire_macros_2_12_0_17_0_M1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_spire_platform_2_12_0_17_0_M1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_typelevel_spire_util_2_12_0_17_0_M1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_7_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__pl_edu_icm_JLargeArrays_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/modules/SparkScalaCourse-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/modules/SparkScalaCourse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/1800.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/Marvel-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/Marvel-names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/access_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/book.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/customer-orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/fakefriends-noheader.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/fakefriends.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/realestate.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/regression.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/data/twitter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/lib/dstream-twitter_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$191191cf5728e8de4fa9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$191191cf5728e8de4fa9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$191191cf5728e8de4fa9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$403138f7536d50ff6fc3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$403138f7536d50ff6fc3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$403138f7536d50ff6fc3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$48f71588b6c13bcccd4a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$48f71588b6c13bcccd4a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$48f71588b6c13bcccd4a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$6d4611f784ae5391aaba$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$6d4611f784ae5391aaba.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$6d4611f784ae5391aaba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$acfbbf085fdcf6c734d2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$acfbbf085fdcf6c734d2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/config-classes/$acfbbf085fdcf6c734d2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/guzman/examples/spark/LearningScala1.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DataFrames.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DataFramesDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparationDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAgeDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/HelloWorld.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LearningScala1.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LearningScala2.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LearningScala3.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LearningScala4.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrameDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MaxTemperatures.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MinTemperatures.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MinTemperaturesDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MostPopularSuperhero.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MostPopularSuperheroDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieRecommendationsALS.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieRecommendationsALSDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities1M.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities1MDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilaritiesDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/PopularHashtags.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/PopularMovies.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/PopularMoviesDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/PopularMoviesNicer.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/PopularMoviesNicerDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounterDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/SparkSQL.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/SparkSQLDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/StructuredStreaming.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/TotalSpentByCustomer.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/TotalSpentByCustomerDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/TotalSpentByCustomerSorted.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetterDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetterSorted.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetterSortedDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountDataset.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFrames$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFrames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFrames$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFrames$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFrames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFramesDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFramesDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFramesDataset$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFramesDataset$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DataFramesDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparation$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$$typecreator4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$$typecreator5$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$BFSNode$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$BFSNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$SuperHero$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset$SuperHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/DegreesOfSeparationDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAge$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAgeDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAgeDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAgeDataset$FakeFriends$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAgeDataset$FakeFriends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/FriendsByAgeDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/GraphX$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/GraphX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/HelloWorld$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala1.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala2.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala3.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala4.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrameDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrameDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrameDataset$RegressionSchema$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrameDataset$RegressionSchema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/LinearRegressionDataFrameDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MaxTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MaxTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperaturesDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperaturesDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperaturesDataset$Temperature$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperaturesDataset$Temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MinTemperaturesDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperhero$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperhero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$SuperHero$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$SuperHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$SuperHeroNames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset$SuperHeroNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MostPopularSuperheroDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALS$$typecreator8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALS$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALS$Rating$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALS$Rating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$MoviesNames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$MoviesNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$Rating$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset$Rating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieRecommendationsALSDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1M$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$$typecreator4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$$typecreator9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviePairs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviePairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviePairsSimilarity$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviePairsSimilarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$Movies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviesNames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset$MoviesNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$$typecreator4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$$typecreator9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviePairs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviePairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviePairsSimilarity$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviePairsSimilarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$Movies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviesNames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal$MoviesNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilarities1MDatasetLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$$typecreator4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$$typecreator9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviePairs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviePairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviePairsSimilarity$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviePairsSimilarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$Movies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviesNames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset$MoviesNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/MovieSimilaritiesDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularHashtags$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularHashtags.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMovies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMovies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesDataset$Movie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesDataset$Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset$Movies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset$Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/PopularMoviesNicerDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounterDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounterDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounterDataset$UserRatings$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounterDataset$UserRatings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/RatingsCounterDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQL$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQL$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQL$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQL$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQLDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQLDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQLDataset$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQLDataset$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/SparkSQLDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/StructuredStreaming$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/StructuredStreaming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerDataset$CustomerOrders$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerDataset$CustomerOrders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSorted$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset$CustomerOrders$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset$CustomerOrders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/TotalSpentByCustomerSortedDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterDataset$Book$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterDataset$Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSorted$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSortedDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSortedDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSortedDataset$Book$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSortedDataset$Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountBetterSortedDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountDataset$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountDataset$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountDataset$Book$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountDataset$Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/classes/com/sundogsoftware/spark/WordCountDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkScalaCourse/winutils.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/guzman/examples/spark/learningScala/hola.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/guzman/examples/spark/learningScala/hola.sc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hSqUQebaAhaCzUjXVW8NDLdK0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="ivy2IndexingMode" value="Disabled" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e37ad8-68e8-4aab-8bb6-7317503e80ba" name="Default Changelist" comment="" />
+      <created>1600014900927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600014900927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
